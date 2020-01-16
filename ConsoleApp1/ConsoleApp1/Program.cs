@@ -10,6 +10,7 @@ namespace ConsoleApp1
             Console.WriteLine("Test");
 
             Console.WriteLine("B1");
+            Console.WriteLine("B2");
         }
     }
 }
