@@ -6,11 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Test");
-
-            Console.WriteLine("B1");
-            Console.WriteLine("B2");
+            Console.WriteLine("Master Brnach 1");
         }
     }
 }
