@@ -10,6 +10,8 @@ namespace ConsoleApp1
 
             Console.WriteLine("Bug Fix 1");
 
+            Console.WriteLine("f2");
+
         }
     }
 }
