@@ -9,6 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Master Brnach 1");
 
             Console.WriteLine("Bug Fix 1");
+
         }
     }
 }
