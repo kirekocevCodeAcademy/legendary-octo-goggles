@@ -18,6 +18,8 @@ namespace ConsoleApp1
 
             Console.WriteLine("r2");
 
+
+            Console.WriteLine("New Request for PR!");
         }
     }
 }
