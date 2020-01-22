@@ -18,6 +18,9 @@ namespace ConsoleApp1
 
             Console.WriteLine("r2");
 
+            Console.WriteLine("22");
+
+
         }
     }
 }
